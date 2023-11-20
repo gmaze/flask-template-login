@@ -1,6 +1,6 @@
 # Flask-app template: Authentication with Flask-Login
 
-Largely inspired by https://www.digitalocean.com/community/tutorials/how-to-add-authentication-to-your-app-with-flask-login#step-2-creating-the-main-app-file with bug fixes
+Largely inspired by https://www.digitalocean.com/community/tutorials/how-to-add-authentication-to-your-app-with-flask-login with bug fixes
 
 # Installation
 

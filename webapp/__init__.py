@@ -1,14 +1,5 @@
 from flask import Flask, render_template
-# import secrets
 import os
-# from logging.config import dictConfig
-# from . import db as DB
-# from .utils import (
-#     has_role,
-#     format_datetime,
-#     format_timedelta,
-# )
-# from .monitors import Monitor
 from flask_login import LoginManager
 from flask_sqlalchemy import SQLAlchemy
 
