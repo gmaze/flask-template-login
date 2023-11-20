@@ -9,8 +9,14 @@ mamba env create -f environment.yml
 ```
 
 ```python
-from recovery_webapp import db, create_app, models
+from webapp import db, create_app, models
 app = create_app()
 with app.app_context():
     db.create_all()
+```
+
+
+```bash
+flask --app webapp routes
+flask --app webapp run
 ```
